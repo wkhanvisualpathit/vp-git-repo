@@ -1,1 +1,2 @@
 content from new branch
+contetn edited checkout
